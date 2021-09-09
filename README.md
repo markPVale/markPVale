@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 [![GitHub](https://img.shields.io/badge/MarkPVale%20-%23121011.svg?&style=flat-square&logo=github&logoColor=white&link=https://github.com/MarkPVale)](https://github.com/MarkPVale)
 - 👨‍💻 Software Engineer
 - </> Software Engineering Immersive Resident at Hack Reactor
-- 📍 Currently located in </>
+- 📍 Currently located in NYC
 
 ## 🔧 Technologies & Tools:
 
