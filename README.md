@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 # Hello! 👋 I'm Mark!
 
-![](https://images.unsplash.com/photo-1552479981-571d591f67d6?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80)
+![](https://images.unsplash.com/photo-1552479981-571d591f67d6?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80)
 
 [![LinkedIn](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/markvalestudio/)
 [![Gmail](https://img.shields.io/badge/Gmail%20-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:markpvale@gmail.com)
