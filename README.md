@@ -69,6 +69,4 @@ Here are some ideas to get you started:
 ![Yarn](https://img.shields.io/badge/yarn%20-%232187B6.svg?&style=flat-square&logo=yarn&logoColor=black)
 ![Bash](https://img.shields.io/badge/bash%20-%2349A124.svg?&style=flat-square&logo=gnu-bash&logoColor=black)
 
-## 📈 My GitHub Stats
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=MarkPVale&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
