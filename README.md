@@ -17,15 +17,15 @@
 
 > **Scalable Web Infrastructure**
 >
-> High-traffic **SSR (Vue/Nuxt)**, **SEO performance** at scale, and **MFE architecture**. Focused on sub-second paint times and transaction atomicity.
+- High-traffic **SSR (Vue/Nuxt)**, **SEO performance** at scale, and **MFE architecture**. Focused on sub-second paint times and transaction atomicity.
 >
 > **Resilient Distributed Systems**
 >
-> Fault-tolerant patterns: **Circuit Breakers**, **Idempotency Keys**, and **Optimistic Concurrency Control**. Designing for the "Unhappy Path" where network and data integrity collide.
+- Fault-tolerant patterns: **Circuit Breakers**, **Idempotency Keys**, and **Optimistic Concurrency Control**. Designing for the "Unhappy Path" where network and data integrity collide.
 >
 > **Physical Computing & Edge**
 >
-> Deterministic firmware engineering. Implementing **IRAM-resident safety ISRs**, **PSRAM-backed buffering**, and **Kalman filtering** for industrial-grade signal integrity.
+- Deterministic firmware engineering. Implementing **IRAM-resident safety ISRs**, **PSRAM-backed buffering**, and **Kalman filtering** for industrial-grade signal integrity.
 
 ***
 
