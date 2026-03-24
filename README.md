@@ -1,26 +1,26 @@
 # Mark Vale
 **Senior Full Stack Engineer** • *High-Stakes Systems & Resilient Infrastructure*
-![Status](https://img.shields.io/badge/SYSTEM_STATUS-PHASE_2_DEV-44cc11?style=flat-square&logo=gnubash&logoColor=44cc11&labelColor=1a1b27)
+
 ***
 
-### `// 01_CURRENT_STATUS :: PHASE_02_DEVELOPMENT`
+### // 01_CURRENT_STATUS :: PHASE_02_DEVELOPMENT
 
 > | Project | Context | Stack |
 > | :--- | :--- | :--- |
-> | **[Industrial Sensor Pipeline](https://github.com/markPVale/industrial-sensor-pipeline)** | Retrofitting legacy assets with deterministic firmware. | `ESP32` `C++` `FreeRTOS` `MQTT` |
+> | **[Industrial Sensor Pipeline](https://github.com/markPVale/industrial-sensor-pipeline)** | Retrofitting legacy assets with deterministic firmware. | `ESP32` • `C++` • `FreeRTOS` • `MQTT` |
 
 ***
 
-### `// 02_TECHNICAL_SPECIALIZATION`
+### // 02_TECHNICAL_SPECIALIZATION
 
 > #### **Scalable Web Infrastructure**
 > High-traffic **SSR (Vue/Nuxt)**, **SEO performance** at scale, and **MFE architecture**. Focused on sub-second paint times and transaction atomicity.
 >
 > #### **Resilient Distributed Systems**
-> Fault-tolerant patterns: **Circuit Breakers**, **Idempotency Keys**, and **Optimistic Concurrency Control**. Designing for the "Unhappy Path" where network and data integrity collide.
+> Fault-tolerant patterns: **Circuit Breakers**, **Idempotency Keys**, and **Optimistic Concurrency Control**. Designing for the "Unhappy Path."
 >
 > #### **Physical Computing & Edge**
-> Deterministic firmware engineering. Implementing **IRAM-resident safety ISRs**, **PSRAM-backed buffering**, and **Kalman filtering** for industrial-grade signal integrity.
+> Deterministic firmware. Implementing **IRAM-resident safety ISRs**, **PSRAM-backed buffering**, and **Kalman filtering**.
 
 ***
 
