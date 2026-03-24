@@ -3,7 +3,7 @@
 ![Status](https://img.shields.io/badge/SYSTEM_STATUS-PHASE_2_DEV-44cc11?style=flat-square&logo=gnubash&logoColor=44cc11&labelColor=1a1b27)
 ***
 
-### 📡 Current Status: Phase 2 Development
+### `// 01_CURRENT_STATUS :: PHASE_02_DEVELOPMENT`
 
 > | Project | Context | Stack |
 > | :--- | :--- | :--- |
@@ -11,7 +11,7 @@
 
 ***
 
-### 🛠️ Technical Specialization
+### `// 02_TECHNICAL_SPECIALIZATION`
 
 > #### **Scalable Web Infrastructure**
 > High-traffic **SSR (Vue/Nuxt)**, **SEO performance** at scale, and **MFE architecture**. Focused on sub-second paint times and transaction atomicity.
@@ -24,7 +24,7 @@
 
 ***
 
-### ⚡ What I’m into right now
+### `// 03_SYSTEM_INTERESTS`
 > * **Industrial IoT:** Retrofitting legacy hardware with deterministic firmware.
 > * **Resilience Patterns:** Implementing circuit breakers and idempotency to protect data integrity.
 > * **Observability:** Building full-stack telemetry pipelines (`Kalman` → `MQTT` → `InfluxDB` → `Grafana`).
@@ -33,5 +33,5 @@
 
 ***
 
-### 📬 Connectivity
+### `// 04_CONNECTIVITY`
 `LinkedIn` [markvalestudio](https://www.linkedin.com/in/markvalestudio/) / `Email` [mark@markvale.dev](mailto:mark@markvale.dev) / `GitHub` [markPVale](https://github.com/markPVale)
