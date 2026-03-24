@@ -1,37 +1,32 @@
-# Hello, I'm Mark 👋
-
-### **Senior Full Stack Software Engineer | High-Stakes Systems Architect**
-Building at the intersection of **scalable web infrastructure** and **resilient physical computing.**
+# Mark Vale
+**Senior Full Stack Engineer** • *High-Stakes Systems & Resilient Infrastructure*
 
 ---
 
-## 🏗️ Current Deep Dive
-**[Industrial Sensor Pipeline](https://github.com/markPVale/industrial-sensor-pipeline)** > *Architecting deterministic firmware and observability patterns for retrofitting legacy industrial assets. Focus: Kalman filtering, PSRAM-backed buffering, and microsecond-latency safety interlocks.*
+### 📡 Current Status: Phase 2 Development
+| Project | Context | Stack |
+| :--- | :--- | :--- |
+| **[Industrial Sensor Pipeline](https://github.com/markPVale/industrial-sensor-pipeline)** | Retrofitting legacy assets with deterministic firmware. | `ESP32` `C++` `FreeRTOS` `MQTT` |
 
 ---
 
-## 🚀 Technical Focus
-* **Performance & Scale:** Specializing in SSR (Vue/Nuxt), SEO infrastructure, and low-latency frontend architecture for high-traffic e-commerce.
-* **System Resilience:** Designing fault-tolerant, event-driven systems utilizing Circuit Breakers, Idempotency, and Optimistic Concurrency.
-* **IoT & Edge:** Engineering firmware (ESP32/C++) with a focus on memory-mapped reliability and hardware-software co-design.
+### 🛠️ Technical Specialization
+
+#### **Scalable Web Infrastructure**
+High-traffic SSR (Vue/Nuxt), SEO performance at scale, and micro-frontend (MFE) architecture. Focused on sub-second paint times and transaction atomicity.
+
+#### **Resilient Distributed Systems**
+Fault-tolerant patterns: **Circuit Breakers**, **Idempotency Keys**, and **Optimistic Concurrency Control**. Designing for the "Unhappy Path" where network and data integrity collide.
+
+#### **Physical Computing & Edge**
+Deterministic firmware engineering. Implementing IRAM-resident safety ISRs, PSRAM-backed buffering, and Kalman filtering for industrial-grade signal integrity.
 
 ---
 
-## 🔧 Core Stack & Tools
-| Domain | Technologies |
-| :--- | :--- |
-| **Frontend** | Vue 2/3, React, Nuxt, TypeScript, SSR, MFE Architecture |
-| **Backend** | Node.js, Express, Python, REST APIs, Pub/Sub |
-| **Edge/IoT** | C++, FreeRTOS, MQTT, InfluxDB, ESP32, Kalman Filtering |
-| **DevOps** | AWS, Docker, Jenkins, Grafana, Prometheus |
+### ⚡ Professional Narrative
+With a decade-long foundation in **Professional Set Design (2013-2020)**, I bridge the gap between physical constraints and digital logic. I build software with the "Physical Guardian" intuition required for high-stakes, failure-intolerant environments.
 
 ---
 
-## 📈 Engineering Narrative
-My background in **Professional Set Design (2013-2020)** taught me to build complex, tightly-coupled systems under hard real-time deadlines. Today, I apply that same "Physical Guardian" intuition to software—prioritizing **Observability, Atomicity, and Uptime** in failure-intolerant environments.
-
----
-
-## 📬 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/markvalestudio/)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:markpvale@gmail.com)
+### 📬 Connectivity
+[LinkedIn](https://www.linkedin.com/in/markvalestudio/) / [Email](mailto:markpvale@gmail.com) / [GitHub](https://github.com/markPVale)
