@@ -23,10 +23,14 @@ Deterministic firmware engineering. Implementing IRAM-resident safety ISRs, PSRA
 
 ---
 
-### ⚡ Professional Narrative
-With a decade-long foundation in **Professional Set Design (2013-2020)**, I bridge the gap between physical constraints and digital logic. I build software with the "Physical Guardian" intuition required for high-stakes, failure-intolerant environments.
+### **What I’m into right now:**
+* **Industrial IoT:** Retrofitting legacy hardware with deterministic firmware. 
+* **Resilience Patterns:** Implementing circuit breakers and idempotency to protect data integrity.
+* **Observability:** Building full-stack telemetry pipelines (Kalman -> MQTT -> InfluxDB -> Grafana).
+
+I’m an engineer who enjoys the "unhappy path", the edge cases, the race conditions, and the system failures that happen when software meets the real world.
 
 ---
 
 ### 📬 Connectivity
-[LinkedIn](https://www.linkedin.com/in/markvalestudio/) / [Email](mailto:markpvale@gmail.com) / [GitHub](https://github.com/markPVale)
+[LinkedIn](https://www.linkedin.com/in/markvalestudio/) / [Email](mailto:mark@markvale.dev) / [GitHub](https://github.com/markPVale)
