@@ -1,6 +1,6 @@
 # Mark Vale
 **Senior Full Stack Engineer** • *High-Stakes Systems & Resilient Infrastructure*
-
+![Status](https://img.shields.io/badge/SYSTEM_STATUS-PHASE_2_DEV-44cc11?style=flat-square&logo=gnubash&logoColor=44cc11&labelColor=1a1b27)
 ***
 
 ### 📡 Current Status: Phase 2 Development
