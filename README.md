@@ -23,7 +23,6 @@
 >
 > **02.3 // PHYSICAL COMPUTING & EDGE**
 > Deterministic firmware engineering. Implementing **IRAM-resident safety ISRs**, **PSRAM-backed buffering**, and **Kalman filtering**.
-
 ***
 
 ### // 03_SYSTEM_INTERESTS
