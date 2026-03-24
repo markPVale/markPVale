@@ -15,19 +15,16 @@
 
 ### // 02_TECHNICAL_SPECIALIZATION
 
-> **Scalable Web Infrastructure**
->
-- High-traffic **SSR (Vue/Nuxt)**, **SEO performance** at scale, and **MFE architecture**. Focused on sub-second paint times and transaction atomicity.
->
-> **Resilient Distributed Systems**
->
-- Fault-tolerant patterns: **Circuit Breakers**, **Idempotency Keys**, and **Optimistic Concurrency Control**. Designing for the "Unhappy Path" where network and data integrity collide.
->
-> **Physical Computing & Edge**
->
-- Deterministic firmware engineering. Implementing **IRAM-resident safety ISRs**, **PSRAM-backed buffering**, and **Kalman filtering** for industrial-grade signal integrity.
-
 ***
+
+#### **SCALABLE WEB INFRASTRUCTURE**
+* High-traffic **SSR (Vue/Nuxt)**, **SEO performance** at scale, and **MFE architecture**. Focused on sub-second paint times and transaction atomicity.
+
+#### **RESILIENT DISTRIBUTED SYSTEMS**
+* Fault-tolerant patterns: **Circuit Breakers**, **Idempotency Keys**, and **Optimistic Concurrency Control**. Designing for the "Unhappy Path."
+
+#### **PHYSICAL COMPUTING & EDGE**
+* Deterministic firmware engineering. Implementing **IRAM-resident safety ISRs**, **PSRAM-backed buffering**, and **Kalman filtering**.
 
 ### // 03_SYSTEM_INTERESTS
 
