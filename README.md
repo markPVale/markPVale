@@ -24,6 +24,8 @@
 > **PHYSICAL COMPUTING & EDGE**
 > * Deterministic firmware engineering. Implementing **IRAM-resident safety ISRs**, **PSRAM-backed buffering**, and **Kalman filtering**.
 
+***
+
 ### // 03_SYSTEM_INTERESTS
 
 > * **Industrial IoT:** Retrofitting legacy hardware with deterministic firmware.
