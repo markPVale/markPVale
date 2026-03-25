@@ -15,8 +15,6 @@
 
 ### // 02_TECHNICAL_SPECIALIZATION
 
-***
-
 > **SCALABLE WEB INFRASTRUCTURE**
 > * High-traffic **SSR (Vue/Nuxt)**, **SEO performance** at scale, and **MFE architecture**. Focused on sub-second paint times and transaction atomicity.
 >
