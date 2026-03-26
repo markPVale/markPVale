@@ -1,43 +1,46 @@
 # Mark Vale
-**Senior Full Stack Engineer** • *High-Stakes Systems & Resilient Infrastructure*
+**Senior Full Stack Engineer** · *High-Stakes Systems & Resilient Infrastructure*
 
 ![Status](https://img.shields.io/badge/SYSTEM_STATUS-PHASE_2_DEV-44cc11?style=flat-square&logo=gnubash&logoColor=44cc11&labelColor=1a1b27)
 
-***
+---
 
-### // 01_CURRENT_STATUS :: PHASE_02_DEVELOPMENT
+### // CURRENT_STATUS · PHASE_02_DEVELOPMENT
 
-> | Project | Context | Stack |
-> | :--- | :--- | :--- |
-> | **[Industrial Sensor Pipeline](https://github.com/markPVale/industrial-sensor-pipeline)** | Retrofitting legacy assets with deterministic firmware. | `ESP32` • `C++` • `FreeRTOS` • `MQTT` |
+| Project | Context | Stack |
+| :--- | :--- | :--- |
+| **[Industrial Sensor Pipeline](https://github.com/markPVale/industrial-sensor-pipeline)** | Retrofitting legacy assets with deterministic firmware | `ESP32` · `C++` · `FreeRTOS` · `MQTT` |
 
-***
+---
 
-### // 02_TECHNICAL_SPECIALIZATION
+### // TECHNICAL_SPECIALIZATION
 
-> **SCALABLE WEB INFRASTRUCTURE**
-> * High-traffic **SSR (Vue/Nuxt)**, **SEO performance** at scale, and **MFE architecture**. Focused on sub-second paint times and transaction atomicity.
->
-> **RESILIENT DISTRIBUTED SYSTEMS**
-> * Fault-tolerant patterns: **Circuit Breakers**, **Idempotency Keys**, and **Optimistic Concurrency Control**. Designing for the "Unhappy Path."
->
-> **PHYSICAL COMPUTING & EDGE**
-> * Deterministic firmware engineering. Implementing **IRAM-resident safety ISRs**, **PSRAM-backed buffering**, and **Kalman filtering**.
+**Scalable Web Infrastructure**
+- SSR (Vue/Nuxt), SEO at scale, MFE architecture  
+- Sub-second paint times · transactional integrity  
 
-***
+**Resilient Distributed Systems**
+- Circuit breakers · idempotency · optimistic concurrency  
+- Designed for the *unhappy path*  
 
-### // 03_SYSTEM_INTERESTS
+**Physical Computing & Edge**
+- Deterministic firmware systems  
+- IRAM ISRs · PSRAM buffering · Kalman filtering  
 
-> * **Industrial IoT:** Retrofitting legacy hardware with deterministic firmware.
-> * **Resilience Patterns:** Implementing circuit breakers and idempotency to protect data integrity.
-> * **Observability:** Building full-stack telemetry pipelines (`Kalman` → `MQTT` → `InfluxDB` → `Grafana`).
->
-> I’m an engineer who enjoys the **"unhappy path"**—the edge cases, the race conditions, and the system failures that happen when software meets the real world.
+---
 
-***
+### // SYSTEM_INTERESTS
 
-### // 04_CONNECTIVITY
+- **Industrial IoT** — retrofitting legacy hardware with deterministic firmware  
+- **Resilience Patterns** — protecting data integrity under failure  
+- **Observability** — Kalman → MQTT → InfluxDB → Grafana  
 
->`LinkedIn` [markvalestudio](https://www.linkedin.com/in/markvalestudio/) / `Email` [mark@markvale.dev](mailto:mark@markvale.dev) / `GitHub` [markPVale](https://github.com/markPVale)
+> I focus on the *unhappy path* — edge cases, race conditions, and failures where systems break under real-world pressure.
 
-***
+---
+
+### // CONNECT
+
+`LinkedIn` [markvalestudio](https://www.linkedin.com/in/markvalestudio/) ·  
+`Email` [mark@markvale.dev](mailto:mark@markvale.dev) ·  
+`GitHub` [markPVale](https://github.com/markPVale)
