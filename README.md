@@ -50,5 +50,4 @@ edge device under memory pressure.
 
 ---
 
-mark@markvale.dev
-linkedin.com/in/markvalestudio
+[mark@markvale.dev](mailto:mark@markvale.dev) · [LinkedIn](https://linkedin.com/in/markvalestudio)
