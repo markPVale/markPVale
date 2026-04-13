@@ -1,46 +1,54 @@
 # Mark Vale
-**Senior Full Stack Engineer** · *High-Stakes Systems & Resilient Infrastructure*
+Edge Systems Engineer · Firmware & Cloud Infrastructure
 
-![Status](https://img.shields.io/badge/SYSTEM_STATUS-PHASE_3_HW-44cc11?style=flat-square&logo=gnubash&logoColor=44cc11&labelColor=1a1b27)
-
----
-
-### // CURRENT_STATUS · PHASE_02_DEVELOPMENT
-
-| Project | Context | Stack |
-| :--- | :--- | :--- |
-| **[Industrial Sensor Pipeline](https://github.com/markPVale/industrial-sensor-pipeline)** | Retrofitting legacy assets with deterministic firmware | `ESP32` · `C++` · `FreeRTOS` · `MQTT` · `InfluxDB` · `Grafana` · `Next.js` |
+I come from high-scale e-commerce: distributed systems,
+resilience patterns, observability at scale. I'm applying
+that foundation to a harder problem: software that interacts
+directly with the physical world, where failures are the norm
+and correctness is non-negotiable.
 
 ---
 
-### // TECHNICAL_SPECIALIZATION
+## Current work
 
-**Scalable Web Infrastructure**
-- SSR (Vue/Nuxt), SEO at scale, MFE architecture  
-- Sub-second paint times · transactional integrity  
+### Industrial Sensor Pipeline
+`ESP32` · `C++` · `FreeRTOS` · `MQTT` · `InfluxDB` · `Grafana`
 
-**Resilient Distributed Systems**
-- Circuit breakers · idempotency · optimistic concurrency  
-- Designed for the *unhappy path*  
+Retrofitting legacy industrial assets with deterministic edge
+firmware. The hard problem: maintaining data integrity and
+system correctness under unreliable connectivity, memory
+pressure, and real-world failure conditions.
 
-**Physical Computing & Edge**
-- Deterministic firmware systems  
-- IRAM ISRs · PSRAM buffering · Kalman filtering  
+Core engineering challenges:
+- PSRAM-backed ring buffer with drop-oldest eviction under pressure
+- Edge-side backpressure with bounded queues and buffered replay on reconnect
+- State machine recovery: NORMAL → BUFFERING → SYNCING,
+  with boot_id and sequence tracking across disconnects
 
----
-
-### // SYSTEM_INTERESTS
-
-- **Industrial IoT** — retrofitting legacy hardware with deterministic firmware  
-- **Resilience Patterns** — protecting data integrity under failure  
-- **Observability** — Kalman → MQTT → InfluxDB → Grafana  
-
-> I focus on the *unhappy path* — edge cases, race conditions, and failures where systems break under real-world pressure.
+In progress: end-to-end backpressure propagation from cloud ingest to edge.
 
 ---
 
-### // CONNECT
+## Engineering approach
 
-`LinkedIn` [markvalestudio](https://www.linkedin.com/in/markvalestudio/) ·  
-`Email` [mark@markvale.dev](mailto:mark@markvale.dev) ·  
-`GitHub` [markPVale](https://github.com/markPVale)
+I design for the unhappy path. Edge cases, race conditions,
+and failure modes under real-world pressure are where systems
+either hold or collapse. Patterns from distributed systems:
+backpressure, idempotency, fault isolation apply directly
+to embedded firmware. The constraints are tighter. The
+consequences are more immediate.
+
+---
+
+## Background
+
+Five years building high-scale e-commerce infrastructure:
+SSR architecture, transactional integrity, sub-second
+performance at scale. The resilience patterns that protect
+a distributed web system are the same ones that protect an
+edge device under memory pressure.
+
+---
+
+mark@markvale.dev
+linkedin.com/in/markvalestudio
