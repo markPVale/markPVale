@@ -42,7 +42,7 @@ consequences are more immediate.
 
 ## Background
 
-Five years building high-scale e-commerce infrastructure:
+Five years building e-commerce infrastructure:
 SSR architecture, transactional integrity, sub-second
 performance at scale. The resilience patterns that protect
 a distributed web system are the same ones that protect an
