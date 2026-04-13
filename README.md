@@ -9,8 +9,7 @@
 
 | Project | Context | Stack |
 | :--- | :--- | :--- |
-| **[Industrial Sensor Pipeline](https://github.com/markPVale/industrial-sensor-pipeline)** | Retrofitting legacy assets with deterministic firmware | `ESP32` · `C++` · `FreeRTOS` ·
-   `MQTT` · `InfluxDB` · `Grafana` · `Next.js` |
+| **[Industrial Sensor Pipeline](https://github.com/markPVale/industrial-sensor-pipeline)** | Retrofitting legacy assets with deterministic firmware | `ESP32` · `C++` · `FreeRTOS` · `MQTT` · `InfluxDB` · `Grafana` · `Next.js` |
 
 ---
 
