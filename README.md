@@ -27,6 +27,8 @@ Core engineering challenges:
 
 In progress: end-to-end backpressure propagation from cloud ingest to edge.
 
+[Demo video](https://youtu.be/uQSLWFSDjXw)
+
 ---
 
 ## Engineering approach
