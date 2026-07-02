@@ -9,8 +9,8 @@ and correctness is non-negotiable.
 
 [![Zero telemetry loss through a network outage](https://img.youtube.com/vi/uQSLWFSDjXw/maxresdefault.jpg)](https://youtu.be/uQSLWFSDjXw)
 
-*85-second demo: ESP32 continues collecting IMU data through
-a 30-second broker outage. Telemetry lost: 0 records.*
+**[▶ Watch the 85-second demo](https://youtu.be/uQSLWFSDjXw)** — 85-second demo: ESP32 continues collecting IMU data through
+a 30-second broker outage. Telemetry lost: 0 records.
 
 ---
 
